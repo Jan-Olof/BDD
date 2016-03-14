@@ -1,7 +1,5 @@
 ﻿using BDD.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Newtonsoft.Json;
-using System.Net;
 
 namespace BDD.Tests.Models
 {
