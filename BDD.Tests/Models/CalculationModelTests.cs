@@ -17,7 +17,7 @@ namespace BDD.Tests.Models
         /// Scenario: Add two numbers
         /// Given I have entered 50 into the calculator
         /// And I have also entered 70 into the calculator
-        /// When I call the add method
+        /// When I call the add two values method
         /// Then the add method should return 120
         /// </summary>
         [TestMethod]
