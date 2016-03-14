@@ -18,7 +18,7 @@ namespace BDD.Tests.Models
         /// Given I have entered 50 into the calculator
         /// And I have also entered 70 into the calculator
         /// When I call the add method
-        /// Then the add method should return OK and the result 120
+        /// Then the add method should return 120
         /// </summary>
         [TestMethod]
         public void TestShouldAdd50And70()
