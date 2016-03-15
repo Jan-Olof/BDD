@@ -1,0 +1,9 @@
+C:\Projects\GitHub\BDD\BDD.Specs\bin\Debug\BDD.Specs.dll.config
+C:\Projects\GitHub\BDD\BDD.Specs\bin\Debug\BDD.Specs.dll
+C:\Projects\GitHub\BDD\BDD.Specs\bin\Debug\BDD.Specs.pdb
+C:\Projects\GitHub\BDD\BDD.Specs\bin\Debug\nunit.framework.dll
+C:\Projects\GitHub\BDD\BDD.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\GitHub\BDD\BDD.Specs\bin\Debug\nunit.framework.xml
+C:\Projects\GitHub\BDD\BDD.Specs\obj\Debug\BDD.Specs.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\BDD\BDD.Specs\obj\Debug\BDD.Specs.dll
+C:\Projects\GitHub\BDD\BDD.Specs\obj\Debug\BDD.Specs.pdb

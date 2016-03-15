@@ -1,0 +1,4 @@
+C:\Projects\GitHub\BDD\SpecFlow\bin\Debug\SpecFlow.dll
+C:\Projects\GitHub\BDD\SpecFlow\bin\Debug\SpecFlow.pdb
+C:\Projects\GitHub\BDD\SpecFlow\obj\Debug\SpecFlow.dll
+C:\Projects\GitHub\BDD\SpecFlow\obj\Debug\SpecFlow.pdb

@@ -1,0 +1,11 @@
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.Specs.dll.config
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.Specs.dll
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.Specs.pdb
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\nunit.framework.dll
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\nunit.framework.xml
+C:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.dll
+C:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.pdb
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.dll
+C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.pdb
+C:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.csprojResolveAssemblyReference.cache

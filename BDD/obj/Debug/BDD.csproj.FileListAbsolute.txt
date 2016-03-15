@@ -86,7 +86,6 @@ C:\Projects\GitHub\BDD\BDD\bin\System.Web.WebPages.xml
 C:\Projects\GitHub\BDD\BDD\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\GitHub\BDD\BDD\bin\System.Web.WebPages.Razor.xml
 C:\Projects\GitHub\BDD\BDD\bin\Antlr3.Runtime.pdb
-C:\Projects\GitHub\BDD\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
 C:\Projects\GitHub\BDD\BDD\obj\Debug\BDD.dll
 C:\Projects\GitHub\BDD\BDD\obj\Debug\BDD.pdb
 C:\Projects\GitHub\BDD\BDD\bin\Microsoft.Practices.ServiceLocation.dll
