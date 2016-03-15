@@ -10,3 +10,10 @@ Scenario: Add two numbers
        And I have also entered 70 into the calculator
        When I press add
        Then the result should be 120 on the screen
+
+@myothertag
+Scenario: Add two high numbers
+       Given I have entered 40000 into the calculator
+       And I have also entered 10000 into the calculator
+       When I press add
+       Then the result should be 50000 on the screen
