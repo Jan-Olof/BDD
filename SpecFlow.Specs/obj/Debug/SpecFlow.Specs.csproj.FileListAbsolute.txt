@@ -9,3 +9,14 @@ C:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.pdb
 C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.dll
 C:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.pdb
 C:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.Specs.dll.config
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.Specs.dll
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.Specs.pdb
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\nunit.framework.dll
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.dll
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\SpecFlow.pdb
+D:\Projects\GitHub\BDD\SpecFlow.Specs\bin\Debug\nunit.framework.xml
+D:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.dll
+D:\Projects\GitHub\BDD\SpecFlow.Specs\obj\Debug\SpecFlow.Specs.pdb

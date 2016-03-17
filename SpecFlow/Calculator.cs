@@ -1,14 +1,26 @@
 ﻿namespace SpecFlow
 {
+    /// <summary>
+    /// The calculator.
+    /// </summary>
     public class Calculator
     {
-        public int FirstNumber { set; private get; }
+        /// <summary>
+        /// Gets or sets the first number.
+        /// </summary>
+        public int FirstNumber { private get; set; }
 
-        public int SecondNumber { set; private get; }
+        /// <summary>
+        /// Gets or sets the second number.
+        /// </summary>
+        public int SecondNumber { private get; set; }
 
+        /// <summary>
+        /// The add.
+        /// </summary>
         public int Add()
         {
-            return FirstNumber + SecondNumber;
+            return this.FirstNumber + this.SecondNumber;
         }
     }
 }
